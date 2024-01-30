@@ -335,6 +335,8 @@ button:hover {
 
 .selected-room{
     background-color: #cfcbca !important;
+}
+
 .confirm-reservation {
     height: 80%;
     display: flex;
